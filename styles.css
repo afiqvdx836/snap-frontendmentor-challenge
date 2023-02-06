@@ -1,0 +1,38 @@
+.login-btn {
+    background-color: transparent;
+    border: none;
+    margin-right: 30px;
+  }
+
+.heading{
+    padding: 10px 30px;
+}
+
+li {
+    margin-left: 20px;
+}
+
+.main-heading{
+    padding:7rem;
+}
+
+.heading-title{
+    
+    font-weight: 700;
+    font-size: 80px;
+}
+
+.heading-description{
+    color: grey;
+    width: 60%;
+  padding: 1.5rem 0;
+}
+
+.logo{
+    margin-top: 8.5rem;
+}
+
+.image-hero{
+    width: 100%;
+    
+}
